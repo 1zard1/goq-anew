@@ -13,3 +13,6 @@
 --- BOOKING ------------------
 ![image](https://github.com/user-attachments/assets/5e9552ac-5564-4df7-8aed-ca9884ac56af)
 ![image](https://github.com/user-attachments/assets/614b712b-eeb0-4cd1-970f-e5a195108837)
+
+--- SPOTIFY -----------------
+![image](https://github.com/user-attachments/assets/352779b4-b9fe-4f31-b5cd-03b9ff3829ac)
