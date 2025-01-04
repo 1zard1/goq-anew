@@ -11,6 +11,7 @@
 ![image](https://github.com/user-attachments/assets/a5f5402d-5d4a-4648-864e-efd9acd665b0)
 
 --- BOOKING ------------------
+![image](https://github.com/user-attachments/assets/85c09c96-89ce-4d87-84b7-4f5331b19ba8)
 ![image](https://github.com/user-attachments/assets/5e9552ac-5564-4df7-8aed-ca9884ac56af)
 ![image](https://github.com/user-attachments/assets/614b712b-eeb0-4cd1-970f-e5a195108837)
 
