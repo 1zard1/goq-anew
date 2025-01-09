@@ -194,7 +194,7 @@ CREATE TABLE recommendations (
 );
 ```
 
-## **Таблица сессий (sessions)**
+## **7. Таблица сессий (sessions)**
 ```sql
 CREATE TABLE sessions (
     session_id SERIAL PRIMARY KEY,
