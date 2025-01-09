@@ -127,7 +127,7 @@ func GetPlaylistHandler(w http.ResponseWriter, r *http.Request) {
     json.NewEncoder(w).Encode(playlist)
 }
 ```
-# 11. Структура базы данных для системы Spotify
+#  Структура базы данных для системы Spotify
 
 ## **1. Таблица пользователей (users)**
 ```sql
