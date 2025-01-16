@@ -1,4 +1,6 @@
-Different Types of SQL JOINs
-(INNER) JOIN : Returns records that have matching values in both tables. LEFT (OUTER) JOIN : Returns all records from the left table, and the matched records from the right table. RIGHT (OUTER) JOIN : Returns all records from the right table, and the matched records from the left table.
-
+Различные типы SQL JOINs:
+- (INNER) JOIN: Возвращает записи, которые имеют совпадающие значения в обеих таблицах.
+- LEFT (OUTER) JOIN: Возвращает все записи из левой таблицы и совпадающие записи из правой таблицы.
+- RIGHT (OUTER) JOIN: Возвращает все записи из правой таблицы и совпадающие записи из левой таблицы.
+- FULL JOIN (или FULL OUTER JOIN) в SQL возвращает все записи, когда есть совпадения в левой или правой таблице
 Get post put patch delete
